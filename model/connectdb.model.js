@@ -1,3 +1,6 @@
+//Please use your mongodb atlas connection string like below link
+//connectionString=mongodb+srv://ddsDb:"atlas clustor name"-jodxl.mongodb.net/?"databasename"retryWrites=true&w=majority
+
 const mongoose = require("mongoose");
 require("dotenv").config();
 const mongoDBErros = require("mongoose-mongodb-errors");
