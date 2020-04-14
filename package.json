@@ -1,0 +1,33 @@
+{
+  "name": "kycformgenerate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "formidable": "^1.2.1",
+    "install": "^0.13.0",
+    "jw-paginate": "^1.0.4",
+    "mongoose": "^5.8.6",
+    "mongoose-mongodb-errors": "0.0.2",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "multiparty": "^4.2.1",
+    "nodemailer": "^6.4.2",
+    "nodemon": "^2.0.2",
+    "react-scripts": "^3.3.1",
+    "reactstrap": "^8.2.0",
+    "sweetalert": "^2.1.2"
+  }
+}
